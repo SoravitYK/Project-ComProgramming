@@ -8,7 +8,7 @@
 # Team Members
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
-|!()|Name|Surname|[text](link)|stdnum|
-|![https://www.facebook.com/profile.php?id=100003099130263](img/Ton.jpg)|Suphsan|Silarot|[@Suphasan](https://github.com/Suphasan)|61070227|
-|!()|Name|Surname|[text](link)|stdnum|
-|!()|Name|Surname|[text](link)|stdnum|
+||Name|Surname|[text](link)|stdnum|
+||Suphsan|Silarot|[@Suphasan](https://github.com/Suphasan)|61070227|
+||Name|Surname|[text](link)|stdnum|
+||Name|Surname|[text](link)|stdnum|
