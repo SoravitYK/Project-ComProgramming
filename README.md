@@ -10,5 +10,5 @@
 |:-:|--|------|---------------|---------|
 ||Rachapat|Pheimphun|[@torasannn](https://github.com/torasannn)|60070083|
 |<img src="img/Ton.jpg" width="120px" height="115px">|Suphasan|Silarot|[@Suphasan](https://github.com/Suphasan)|61070227|
-||Sorawit|Yamkum|[@SoravitYK](https://github.com/SoravitYK)|61070234|
+||Soravit|Yamkum|[@SoravitYK](https://github.com/SoravitYK)|61070234|
 ||Arnon|Unton|[@stupidwolfy](https://github.com/stupidwolfy)|61070264|
