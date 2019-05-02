@@ -9,7 +9,7 @@
 # Team Members
 |  |ชื่อ|นามสกุล|GitHub Username|รหัสนักศึกษา|
 |:-:|--|------|---------------|---------|
-||Rachapat|Pheimphun|[@torasannn](https://github.com/torasannn)|60070083|
+|<img src="img/Torasann.jpg" width="120px" height="115px">|Rachapat|Pheimphun|[@torasannn](https://github.com/torasannn)|60070083|
 |<img src="img/Ton.jpg" width="120px" height="115px">|Suphasan|Silarot|[@Suphasan](https://github.com/Suphasan)|61070227|
 |<img src="img/soravityk.jpg" width="90px" height="115px">|Soravit|Yamkum|[@SoravitYK](https://github.com/SoravitYK)|61070234|
 |<img src="img/arnon.png" width="120px" height="115px">|Arnon|Unton|[@stupidwolfy](https://github.com/stupidwolfy)|61070268|
